@@ -1,6 +1,6 @@
 # Hi, I'm MD Shahidullah Rakib 👋
 
-<img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" align="right" width="300"/>
+<img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" align="right" width="300"/> 
 
 ### 🚀 Frontend Developer | JavaScript Enthusiast | Open Source Contributor
 
