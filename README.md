@@ -1,6 +1,6 @@
 # Hi, I'm MD Shahidullah Rakib 👋
 
-<img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" align="right" width="300"/> 
+<img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" align="right" width="300"/>
 
 ### 🚀 Frontend Developer | JavaScript Enthusiast | Open Source Contributor
 
@@ -45,6 +45,12 @@ A project predicting stock market closing prices using **LSTM** models.
 
 ### 🔗 [Heart Disease Prediction](https://github.com/shsidulla/Predicting_Heart_Disease)
 Predict heart disease using **CNN**, **KNN**, and **Decision Tree** ML models.
+
+## 📊 GitHub Daily Commit Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahidullah-rakib&theme=radical" alt="GitHub Streak Stats" />
+</p>
 
 ## 📈 GitHub Stats
 
